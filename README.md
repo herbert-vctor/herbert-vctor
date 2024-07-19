@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do { } 😁
+## Bem-vindo(a) ao perfil do { } 😎
 
  <div>
    <a href="https://github.com/herbert-vctor">
