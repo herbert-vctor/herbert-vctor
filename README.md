@@ -13,7 +13,7 @@
  
 <br>
  
-### Rede sociai 🚀
+### Rede social 🚀
  
 <div> 
   <a href="https://www.linkedin.com/in/herbert-victor-80b54331a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
